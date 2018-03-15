@@ -34,7 +34,8 @@
 }
 
 .col-3 {
-
+  float: left;
+  width: 100%;
 }
 
 [class*="col-"]{
